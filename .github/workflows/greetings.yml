@@ -3,24 +3,8 @@ name: Greetings
 on: [pull_request_target, issues]
 
 jobs:
-  setup-docker:
-    runs-on: self-hosted
-    steps:
-      - name: Install Docker and dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y iptables docker.io
-      - name: Add runner user to docker group
-        run: |
-          sudo usermod -aG docker $USER
-      - name: Start Docker daemon
-        run: |
-          sudo dockerd &
-          sleep 10
-
   greeting:
-    needs: setup-docker
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
