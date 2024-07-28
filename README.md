@@ -15,7 +15,7 @@ The open source repo for quick links to some really amazing websites to help you
 ### fontawesome
 
 # Frameworks 
-TODO:
+TODO: @Dario-Maselli
 
 # CSS
 animate.css
