@@ -6,6 +6,10 @@ jobs:
   setup-docker:
     runs-on: self-hosted
     steps:
+      - run: |
+          sudo apt-get update
+          sudo apt-get install iptables
+          
       - name: Setup Docker
         uses: crazy-max/ghaction-setup-docker@v3
 
