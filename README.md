@@ -1,7 +1,19 @@
 # [WebDevEssentials](https://dario-maselli.github.io/WebDevEssentials/) [![deployment](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment)
+
 The open source repo for quick links to some really amazing websites to help you with your web development.
 
 Clicking the above heading will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.
+
+# Statistics
+<!-- ![Forks](https://img.shields.io/github/forks/dario-maselli/WebDevEssentials.svg?style=flat&color=aqua) -->
+![Stars](https://img.shields.io/github/stars/dario-maselli/WebDevEssentials.svg?style=flat&color=green)
+![Watchers](https://img.shields.io/github/watchers/dario-maselli/WebDevEssentials.svg?style=flat&color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/dario-maselli/WebDevEssentials?style=flat&color=purple)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dario-maselli/WebDevEssentials?style=flat&color=brown)
+
+
+
+
 
 # HTML Canvas Usage 
 - Mo.js
