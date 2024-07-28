@@ -9,9 +9,16 @@ jobs:
       - run: |
           sudo apt-get update
           sudo apt-get install -y iptables
-          
+
       - name: Setup Docker
-        uses: crazy-max/ghaction-setup-docker@v3
+        run: |
+          sudo apt-get install -y docker.io
+          sudo systemctl start docker
+          sudo systemctl enable docker
+
+      - name: Ensure Docker can run iptables commands
+        run: |
+          sudo iptables -t nat -N DOCKER
 
   greeting:
     needs: setup-docker
