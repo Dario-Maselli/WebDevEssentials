@@ -11,9 +11,19 @@ Clicking the above heading will take you to our Github Pages where you can navig
 ![GitHub contributors](https://img.shields.io/github/contributors/dario-maselli/WebDevEssentials?style=flat&color=purple)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dario-maselli/WebDevEssentials?style=flat&color=brown)
 
+# Content
+- TODO: @dario-maselli + @greenxertz
 
+# Quick Starters to get your projects up and running
+### Use our templates to start your "WebDev" journey.
+TODO: @dario-maselli
 
+# Frameworks
+Before starting a Website Development project, we would recommend you understand what frameworks are and which would be beneficial for you.
 
+### Laravel - TODO
+### Angular - TODO
+### React - TODO
 
 # HTML Canvas Usage 
 - Mo.js
