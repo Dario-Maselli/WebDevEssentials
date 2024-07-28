@@ -3,14 +3,19 @@ name: Greetings
 on: [pull_request_target, issues]
 
 jobs:
+  setup-docker:
+    runs-on: self-hosted
+    steps:
+      - name: Setup Docker
+        uses: crazy-max/ghaction-setup-docker@v3
+
   greeting:
+    needs: setup-docker
     runs-on: self-hosted
     permissions:
       issues: write
       pull-requests: write
     steps:
-    - name: Setup Docker
-      uses: crazy-max/ghaction-setup-docker@v3
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.TOKEN }}
