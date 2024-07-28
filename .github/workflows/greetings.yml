@@ -6,19 +6,16 @@ jobs:
   setup-docker:
     runs-on: self-hosted
     steps:
-      - run: |
+      - name: Install Docker and dependencies
+        run: |
           sudo apt-get update
-          sudo apt-get install -y iptables
-
-      - name: Setup Docker
+          sudo apt-get install -y iptables docker.io
+      - name: Start Docker daemon
         run: |
-          sudo apt-get install -y docker.io
-          sudo systemctl start docker
-          sudo systemctl enable docker
-
-      - name: Ensure Docker can run iptables commands
-        run: |
-          sudo iptables -t nat -N DOCKER
+          sudo dockerd &
+          sleep 10
+      # - name: Setup Docker
+      #   uses: crazy-max/ghaction-setup-docker@v3
 
   greeting:
     needs: setup-docker
@@ -27,7 +24,8 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
+    - name: First interaction
+      uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.TOKEN }}
         issue-message: "Hello! Welcome to the WebDevEssentials community! 🎊 Thank you for submitting your first issue. We value your feedback and will address it promptly. If you have any questions or need further assistance, feel free to ask. Cheers, The WebDevEssentials Team"
