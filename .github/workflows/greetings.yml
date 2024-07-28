@@ -9,8 +9,10 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: docker-practice/actions-setup-docker@master
-      timeout-minutes: 12
+    - run: |
+        sudo apt-get update
+        sudo apt-get install ./docker-desktop-<arch>.deb
+
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.TOKEN }}
