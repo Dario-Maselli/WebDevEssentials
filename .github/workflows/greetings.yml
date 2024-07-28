@@ -10,12 +10,13 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y iptables docker.io
+      - name: Add runner user to docker group
+        run: |
+          sudo usermod -aG docker $USER
       - name: Start Docker daemon
         run: |
           sudo dockerd &
           sleep 10
-      # - name: Setup Docker
-      #   uses: crazy-max/ghaction-setup-docker@v3
 
   greeting:
     needs: setup-docker
