@@ -19,7 +19,7 @@ jobs:
     steps:
     - uses: actions/stale@v5
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.TOKEN }}
         stale-issue-message: "This issue has been marked as stale due to inactivity. We appreciate your contribution and would like to know if this is still an issue for you. If we don't hear from you in the next 7 days, we will close this issue to keep our repository clean."
         stale-pr-message: "This pull request has been marked as stale due to inactivity. We value your contribution and would like to know if you plan to continue working on it. If we don't hear from you in the next 7 days, we will close this PR to maintain repository hygiene."
         days-before-stale: 30
