@@ -9,8 +9,8 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: docker-practice/actions-setup-docker@master
-      timeout-minutes: 12
+    - name: Setup Docker
+      uses: crazy-max/ghaction-setup-docker@v3
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.TOKEN }}
