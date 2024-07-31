@@ -24,8 +24,8 @@ If you're unable to find an open issue addressing the enhancement, open a new on
 
 Unsure where to begin contributing to WebDevEssentials? You can start by looking through these beginner and help-wanted issues:
 
-- Beginner Issues
-- Help Wanted Issues
+- [Beginner Issues](https://github.com/Dario-Maselli/WebDevEssentials/labels/good%20first%20issue)
+- [Help Wanted Issues](https://github.com/Dario-Maselli/WebDevEssentials/labels/help%20wanted)
 
 ### Pull Requests
 
