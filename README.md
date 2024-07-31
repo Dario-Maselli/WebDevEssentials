@@ -1,4 +1,6 @@
-# [WebDevEssentials](https://dario-maselli.github.io/WebDevEssentials/) [![deployment](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment)
+# [WebDevEssentials](https://dario-maselli.github.io/WebDevEssentials/)
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9274/badge)](https://www.bestpractices.dev/projects/9274) [![deployment](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment)
 
 The open source repo for quick links to some really amazing websites to help you with your web development.
 
