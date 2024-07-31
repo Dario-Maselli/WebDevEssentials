@@ -1,8 +1,5 @@
 # The Site Configuration
 
-# Import the theme
-theme: ''
-
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 baseurl: ''
