@@ -26,6 +26,13 @@ Before making any major decisions, we suggest using Figma or a similar tool to c
 - Adobe XD
 - Canva
 
+# Lacking inspiration?
+look at sites like these to get an idea that you might like. 
+- dribble
+- codepen 
+- pinterest
+- behance
+
 # Frameworks
 Before starting a Website Development project, we would recommend you understand what frameworks are and which would be beneficial for you. 
 
