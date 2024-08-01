@@ -67,8 +67,6 @@ A set of icons specifically designed for developers. It includes a wide variety 
 
 A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
 
-A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
-
 ## HTML `<Canvas>` usage
 
 Used for drawing graphics on the fly via scripting (usually JavaScript). It can be used to draw graphs, make photo compositions or even perform animations.
