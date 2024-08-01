@@ -25,21 +25,6 @@ Clicking the above heading will take you to our Github Pages where you can navig
 
 TODO: @dario-maselli
 
-# Planning:
-Before making any major decisions, we suggest using Figma or a similar tool to create wireframes for your site. These tools make the development process much easier. From our experience, ideas that look good in your head might not work out as well in reality. Wireframing also helps prevent scope creep.
-
-- Figma 
-- Sketch
-- Adobe XD
-- Canva
-
-# Lacking inspiration?
-look at sites like these to get an idea that you might like. 
-- dribble
-- codepen 
-- pinterest
-- behance
-
 ## Planning
 
 Before making any major decisions, we suggest using Figma or a similar tool to create wireframes for your site. These tools make the development process much easier. From our experience, ideas that look good in your head might not work out as well in reality. Wireframing also helps prevent scope creep.
@@ -48,6 +33,15 @@ Before making any major decisions, we suggest using Figma or a similar tool to c
 - Sketch
 - Adobe XD
 - Canva
+
+## Lacking inspiration?
+
+look at sites like these to get an idea that you might like.
+
+- dribble
+- codepen
+- pinterest
+- behance
 
 ## Frameworks
 
@@ -70,7 +64,8 @@ animate.css
 A set of icons specifically designed for developers. It includes a wide variety of icons for programming languages, development tools, and technology logos. The icons are available in SVG format, making them easy to customize and integrate into web projects.
 
 ### fontawesome
-A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more. 
+
+A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
 
 A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
 
