@@ -113,6 +113,10 @@ A library for creating interactive 2D graphics on the canvas. It’s useful for 
 
 Part of the CreateJS suite, EaselJS provides a robust API for working with canvas elements, allowing for drawing and animating graphics with ease.
 
+#### SplideJS
+
+Splide is a lightweight, responsive, and modern slider/carousel library that is designed to be easy to use and customizable. being responisve, lightweight, customizable, easy access, modular and supporting multiple types.
+
 ### Some 3D graphics and animimations libraries
 
 #### Three.js
