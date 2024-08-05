@@ -49,9 +49,31 @@ Before starting a Website Development project, we would recommend you understand
 
 ### Laravel - TODO
 
-### Angular - TODO
+### Angular
+
+Angular is a platform and framework for building client-side applications using HTML, CSS, and TypeScript. Developed and maintained by Google, it provides a comprehensive solution for developing robust and scalable single-page applications. Angular is a complete rewrite from the same team that built AngularJS. Examples of applications built with Angular include
+
+- Google AdWords, showcasing Angular's ability to handle complex, large-scale projects.
+- parts of Microsoft Office Online for a rich, interactive experience.
+- Gmail, which leverages Angular’s capabilities for enhanced performance and user experience.
+
+Angular continues to evolve with regular updates and new features, supported by a strong community and comprehensive documentation, making it a popular choice for modern web development.
 
 ### React - TODO
+
+### Electron
+
+Electron is an open-source framework developed by GitHub that allows developers to build cross-platform desktop applications using web technologies like HTML, CSS, and JavaScript. Essentially, it enables you to create desktop apps with the same technologies you would use for web development. Here are some examples:
+
+- Discord: Initially built as a web application using React, Discord uses Electron to create its desktop application. This allows it to leverage the same codebase for both web and desktop versions, ensuring consistency across platforms.
+
+- Visual Studio Code: Microsoft's popular code editor is another well-known example of an Electron app. It utilizes Electron to provide a consistent development experience across different operating systems.
+
+#### Electron is compatible with
+
+- React
+- Angular
+- Vue.js
 
 ## CSS libraries
 
@@ -121,7 +143,7 @@ Splide is a lightweight, responsive, and modern slider/carousel library that is 
 
 #### Three.js
 
-A powerful JavaScript library used for creating 3D graphics and animations on the web. It removes a lpt of the complexity of WebGL and allows for advanced visual effects and interactive 3D scenes.
+A powerful JavaScript library used for creating 3D graphics and animations on the web. It removes a lot of the complexity of WebGL and allows for advanced visual effects and interactive 3D scenes.
 
 #### Zdog
 
