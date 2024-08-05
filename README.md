@@ -143,7 +143,7 @@ Splide is a lightweight, responsive, and modern slider/carousel library that is 
 
 #### Three.js
 
-A powerful JavaScript library used for creating 3D graphics and animations on the web. It removes a lpt of the complexity of WebGL and allows for advanced visual effects and interactive 3D scenes.
+A powerful JavaScript library used for creating 3D graphics and animations on the web. It removes a lot of the complexity of WebGL and allows for advanced visual effects and interactive 3D scenes.
 
 #### Zdog
 
@@ -179,27 +179,27 @@ A collection of examples and experiments built using OGL, a lightweight WebGL fr
 
 ## How about some AI chatbot intergration?
 
-#### Botpress
+### Botpress
 
 An open-source conversational AI platform that helps developers build, manage, and extend chatbots using Node.js and other programming languages.
 
-#### Dialogflow
+### Dialogflow
 
 Google’s AI platform for building conversational experiences, which integrates easily with web and mobile applications. It offers natural language understanding and supports voice and text-based interactions.
 
-#### IBM Watson Assistant
+### IBM Watson Assistant
 
 A powerful platform that offers natural language understanding and dialogue management capabilities. It allows businesses to build AI-driven virtual assistants that understand user queries and provide accurate responses.
 
-#### Microsoft Bot Framework
+### Microsoft Bot Framework
 
 Allows you to build, connect, and manage intelligent bots to interact naturally with users on various platforms, including websites, apps, and messaging services. It supports multiple programming languages and frameworks.
 
-#### Amazon Lex
+### Amazon Lex
 
 AWS service for building conversational interfaces using voice and text. It provides the same deep learning technologies that power Amazon Alexa, enabling the creation of sophisticated, natural language chatbots.
 
-#### Rasa
+### Rasa
 
 An open-source machine learning framework for building AI assistants and chatbots. Providing tools for natural language understanding and dialogue management, allowing developers to create custom AI solutions.
 
