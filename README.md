@@ -155,7 +155,7 @@ Ease-in / Ease-in-out / Ease-out - [CodePenLink](https://codepen.io/juliangarnie
 
 A collection of examples and experiments built using OGL, a lightweight WebGL framework. The examples on the Oframe site showcase various techniques and visual effects that can be achieved with OGL.
 
-## How about some AI chatbot intergration?
+## How about some AI chatbot integration?
 
 ### Botpress
 
