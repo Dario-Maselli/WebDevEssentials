@@ -49,9 +49,31 @@ Before starting a Website Development project, we would recommend you understand
 
 ### Laravel - TODO
 
-### Angular - TODO
+### Angular
+
+Angular is a platform and framework for building client-side applications using HTML, CSS, and TypeScript. Developed and maintained by Google, it provides a comprehensive solution for developing robust and scalable single-page applications. Angular is a complete rewrite from the same team that built AngularJS. Examples of applications built with Angular include
+
+- Google AdWords, showcasing Angular's ability to handle complex, large-scale projects.
+- parts of Microsoft Office Online for a rich, interactive experience.
+- Gmail, which leverages Angular’s capabilities for enhanced performance and user experience.
+
+Angular continues to evolve with regular updates and new features, supported by a strong community and comprehensive documentation, making it a popular choice for modern web development.
 
 ### React - TODO
+
+### Electron
+
+Electron is an open-source framework developed by GitHub that allows developers to build cross-platform desktop applications using web technologies like HTML, CSS, and JavaScript. Essentially, it enables you to create desktop apps with the same technologies you would use for web development. Here are some examples:
+
+- Discord: Initially built as a web application using React, Discord uses Electron to create its desktop application. This allows it to leverage the same codebase for both web and desktop versions, ensuring consistency across platforms.
+
+- Visual Studio Code: Microsoft's popular code editor is another well-known example of an Electron app. It utilizes Electron to provide a consistent development experience across different operating systems.
+
+#### Electron is compatible with
+
+- React
+- Angular
+- Vue.js
 
 ## CSS libraries
 
@@ -157,27 +179,27 @@ A collection of examples and experiments built using OGL, a lightweight WebGL fr
 
 ## How about some AI chatbot intergration?
 
-### Botpress
+#### Botpress
 
 An open-source conversational AI platform that helps developers build, manage, and extend chatbots using Node.js and other programming languages.
 
-### Dialogflow
+#### Dialogflow
 
 Google’s AI platform for building conversational experiences, which integrates easily with web and mobile applications. It offers natural language understanding and supports voice and text-based interactions.
 
-### IBM Watson Assistant
+#### IBM Watson Assistant
 
 A powerful platform that offers natural language understanding and dialogue management capabilities. It allows businesses to build AI-driven virtual assistants that understand user queries and provide accurate responses.
 
-### Microsoft Bot Framework
+#### Microsoft Bot Framework
 
 Allows you to build, connect, and manage intelligent bots to interact naturally with users on various platforms, including websites, apps, and messaging services. It supports multiple programming languages and frameworks.
 
-### Amazon Lex
+#### Amazon Lex
 
 AWS service for building conversational interfaces using voice and text. It provides the same deep learning technologies that power Amazon Alexa, enabling the creation of sophisticated, natural language chatbots.
 
-### Rasa
+#### Rasa
 
 An open-source machine learning framework for building AI assistants and chatbots. Providing tools for natural language understanding and dialogue management, allowing developers to create custom AI solutions.
 
