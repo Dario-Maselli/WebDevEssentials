@@ -25,7 +25,7 @@ The open source repo for quick links to some really amazing websites to help you
 - [Frameworks](#frameworks)
 - [CSS Library Must Haves](#css-library-must-haves)
 - [Icons](#icons)
-- [HTML \ usage](#html--usage)
+- [HTML Canvas usage](#html-canvas-usage)
 - [Some documents on ideas with everything covered above](#some-documents-on-ideas-with-everything-covered-above)
 - [Some Cool Concepts](#some-cool-concepts)
 - [How about some AI chatbot integration?](#how-about-some-ai-chatbot-integration)
