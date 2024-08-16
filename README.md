@@ -17,8 +17,7 @@ The open source repo for quick links to some really amazing websites to help you
 
 ## <span style="color:blue">Content</span>
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- toc -->
 
 ## <span style="color:purple">Quick Starters to get your projects up and running</span>
 
