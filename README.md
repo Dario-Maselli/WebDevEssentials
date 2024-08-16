@@ -55,8 +55,11 @@ A framework is a structured platform or set of tools and libraries designed to s
 Laravel is a popular, open-source PHP framework used for web application development. It follows the Model-View-Controller (MVC) architectural pattern, which helps in organizing and separating the application’s logic, user interface, and data layers. Laravel is known for its elegant syntax, developer-friendly features, and a strong focus on simplicity and readability.
 
 **Use Cases:**
+
 ***Web Applications***: Laravel is widely used to build web applications ranging from small websites to complex, large-scale systems.
+
 ***APIs***: With Laravel, you can easily build RESTful APIs, making it a popular choice for backend development.
+
 ***eCommerce***: Laravel’s robust features make it suitable for developing eCommerce platforms, with built-in support for user management, payment gateways, and more.
 
 ### Angular
