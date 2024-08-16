@@ -31,5 +31,6 @@ jobs:
         git add README.md
         git commit -m "chore: update table of contents in README"
         git push
+      shell: cmd
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
