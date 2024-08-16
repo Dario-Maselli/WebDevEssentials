@@ -2,9 +2,9 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9274/badge)](https://www.bestpractices.dev/projects/9274) [![deployment](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment)
 
-The open source repo for quick links to some really amazing websites to help you with your web development.
+The open source repo for quick links to some really amazing websites to help you with your web development. The content provided is accessible for all and free.
 
-Clicking the above heading will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.
+[Clicking this text will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.](https://dario-maselli.github.io/WebDevEssentials/)
 
 ## <span style="color:red">Statistics</span>
 
@@ -50,7 +50,7 @@ Before starting a Website Development project, we would recommend you understand
 **What is a Framework?**
 A framework is a structured platform or set of tools and libraries designed to simplify and expedite the development process in various areas, such as software, web applications, or mobile apps. It provides a foundation on which developers can build applications without needing to start from scratch.
 
-### Laravel
+### <span style="color:red">Laravel</span>
 
 Laravel is a popular, open-source PHP framework used for web application development. It follows the Model-View-Controller (MVC) architectural pattern, which helps in organizing and separating the application’s logic, user interface, and data layers. Laravel is known for its elegant syntax, developer-friendly features, and a strong focus on simplicity and readability.
 
@@ -87,19 +87,42 @@ Electron is an open-source framework developed by GitHub that allows developers 
 - Angular
 - Vue.js
 
-## CSS libraries
+## CSS Library Must Haves
 
-animate.css
+- [Tailwind CSS](https://tailwindcss.com/)
+  - [With Tailwind UI](https://tailwindui.com/)
+- [Pure CSS](https://purecss.io/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Animate](https://animate.style/)
+- [Foundation](https://get.foundation/)
+- [Bulma.io](https://bulma.io/)
+- [Materialize](https://materializecss.com/)
+- [Semantic UI](https://semantic-ui.com/)
+- [UiKit](https://getuikit.com/)
+
+Note: It is not recommended to use more than 1 CSS library as there can be design conflicts.
 
 ## Icons
 
-### devicon
+### [Font Awesome](https://fontawesome.com/)
+
+A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
+
+### [Devicon](https://devicon.dev/)
 
 A set of icons specifically designed for developers. It includes a wide variety of icons for programming languages, development tools, and technology logos. The icons are available in SVG format, making them easy to customize and integrate into web projects.
 
-### fontawesome
+### [Iconfinder](https://www.iconfinder.com/)
 
-A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
+Iconfinder offers a large selection of icons in various styles and formats. You can find both free and premium icons, and it allows you to search by style, category, and more.
+
+### [Flaticon](https://www.flaticon.com/)
+
+Flaticon provides a huge library of free icons, available in multiple formats like PNG, SVG, and EPS. It also offers icon packs and collections tailored to different themes and purposes.
+
+### [Google Material Icons](https://fonts.google.com/icons)
+
+Google's Icons are based on Material Design principles and provide a consistent, modern look. The icons are available in multiple styles and can be easily integrated into web projects.
 
 ## HTML `<Canvas>` usage
 
