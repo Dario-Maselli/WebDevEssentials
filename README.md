@@ -244,3 +244,7 @@ An open-source machine learning framework for building AI assistants and chatbot
 ## Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=Dario-Maselli/WebDevEssentials)
+
+### Reference links
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
