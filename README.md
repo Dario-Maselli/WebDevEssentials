@@ -19,6 +19,20 @@ The open source repo for quick links to some really amazing websites to help you
 
 <!-- toc -->
 
+- [Quick Starters to get your projects up and running](#quick-starters-to-get-your-projects-up-and-running)
+- [Planning](#planning)
+- [Lacking inspiration?](#lacking-inspiration)
+- [Frameworks](#frameworks)
+- [CSS Library Must Haves](#css-library-must-haves)
+- [Icons](#icons)
+- [HTML `` usage](#html--usage)
+- [Some documents on ideas with everything covered above](#some-documents-on-ideas-with-everything-covered-above)
+- [Some Cool Concepts](#some-cool-concepts)
+- [How about some AI chatbot integration?](#how-about-some-ai-chatbot-integration)
+- [Contributors](#contributors)
+
+<!-- tocstop -->
+
 ## <span style="color:purple">Quick Starters to get your projects up and running</span>
 
 ### <span style="color:#00a331">Use our templates to start your "WebDev" journey</span>
