@@ -1,7 +1,7 @@
 name: Auto Generate TOC for README
 
 on:
-  pull_request:
+  push:
 
 jobs:
   update-toc:
