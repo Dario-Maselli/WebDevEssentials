@@ -32,4 +32,4 @@ jobs:
         git commit -m "chore: update table of contents in README"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
