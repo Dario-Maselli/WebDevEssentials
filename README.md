@@ -6,7 +6,7 @@ The open source repo for quick links to some really amazing websites to help you
 
 Clicking the above heading will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.
 
-## Statistics
+## <span style="color:red">Statistics</span>
 
 <!-- ![Forks](https://img.shields.io/github/forks/dario-maselli/WebDevEssentials.svg?style=flat&color=aqua) -->
 
@@ -15,17 +15,17 @@ Clicking the above heading will take you to our Github Pages where you can navig
 ![GitHub contributors](https://img.shields.io/github/contributors/dario-maselli/WebDevEssentials?style=flat&color=purple)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dario-maselli/WebDevEssentials?style=flat&color=brown)
 
-## Content
+## <span style="color:blue">Content</span>
 
-- TODO: @dario-maselli + @greenxertz
+- TODO
 
-## Quick Starters to get your projects up and running
+## <span style="color:purple">Quick Starters to get your projects up and running</span>
 
-### Use our templates to start your "WebDev" journey
+### <span style="color:#00a331">Use our templates to start your "WebDev" journey</span>
 
 TODO: @dario-maselli
 
-## Planning
+## <span style="color:#ff6600">Planning</span>
 
 Before making any major decisions, we suggest using Figma or a similar tool to create wireframes for your site. These tools make the development process much easier. From our experience, ideas that look good in your head might not work out as well in reality. Wireframing also helps prevent scope creep.
 
@@ -34,20 +34,30 @@ Before making any major decisions, we suggest using Figma or a similar tool to c
 - Adobe XD
 - Canva
 
-## Lacking inspiration?
+## <span style="color:orange">L</span><span style="color:green">a</span><span style="color:blue">c</span><span style="color:red">k</span><span style="color:brown">i</span><span style="color:orange">n</span><span style="color:green">g </span><span style="color:blue">i</span><span style="color:red">n</span><span style="color:brown">s</span><span style="color:orange">p</span><span style="color:green">i</span><span style="color:blue">r</span><span style="color:red">a</span><span style="color:brown">t</span><span style="color:orange">i</span><span style="color:green">o</span><span style="color:blue">n</span><span style="color:red">?</span>
 
-look at sites like these to get an idea that you might like.
+Have a look at sites like these to get an idea that you might like.
 
-- dribble
-- codepen
-- pinterest
-- behance
+- Dribble
+- Codepen
+- Pinterest
+- Behance
 
-## Frameworks
+## <span style="color:purple">Frameworks</span>
 
 Before starting a Website Development project, we would recommend you understand what frameworks are and which would be beneficial for you.
 
-### Laravel - TODO
+**What is a Framework?**
+A framework is a structured platform or set of tools and libraries designed to simplify and expedite the development process in various areas, such as software, web applications, or mobile apps. It provides a foundation on which developers can build applications without needing to start from scratch.
+
+### Laravel
+
+Laravel is a popular, open-source PHP framework used for web application development. It follows the Model-View-Controller (MVC) architectural pattern, which helps in organizing and separating the application’s logic, user interface, and data layers. Laravel is known for its elegant syntax, developer-friendly features, and a strong focus on simplicity and readability.
+
+**Use Cases:**
+***Web Applications***: Laravel is widely used to build web applications ranging from small websites to complex, large-scale systems.
+***APIs***: With Laravel, you can easily build RESTful APIs, making it a popular choice for backend development.
+***eCommerce***: Laravel’s robust features make it suitable for developing eCommerce platforms, with built-in support for user management, payment gateways, and more.
 
 ### Angular
 
@@ -59,7 +69,9 @@ Angular is a platform and framework for building client-side applications using 
 
 Angular continues to evolve with regular updates and new features, supported by a strong community and comprehensive documentation, making it a popular choice for modern web development.
 
-### React - TODO
+### React
+
+React is a popular open-source JavaScript library used for building user interfaces, particularly for single-page applications where you need a fast, interactive user experience. It was developed and is maintained by Facebook, along with a community of individual developers and companies.
 
 ### Electron
 
