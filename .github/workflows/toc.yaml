@@ -9,9 +9,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        ref: main 
+      uses: actions/checkout@v4
 
     - name: Set up Node.js environment
       uses: actions/setup-node@v3
