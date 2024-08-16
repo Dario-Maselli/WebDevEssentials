@@ -1,9 +1,35 @@
-on: push
-name: TOC Generator
+name: Auto Generate TOC for README
+
+on:
+  push:
+    # branches:
+    #   - main  # or the branch you want to run this on
 
 jobs:
-  generateTOC:
-    name: TOC Generator
+  update-toc:
     runs-on: self-hosted
+
     steps:
-      - uses: technote-space/toc-generator@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js environment
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install markdown-toc
+      run: npm install -g markdown-toc
+
+    - name: Generate TOC
+      run: markdown-toc -i README.md
+
+    - name: Commit changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "chore: update table of contents in README"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
