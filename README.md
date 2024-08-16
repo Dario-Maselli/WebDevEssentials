@@ -141,8 +141,9 @@ Flaticon provides a huge library of free icons, available in multiple formats li
 
 Google's Icons are based on Material Design principles and provide a consistent, modern look. The icons are available in multiple styles and can be easily integrated into web projects.
 
-## HTML \<canvas> usage
+## HTML Canvas usage
 
+`<canvas>`
 Used for drawing graphics on the fly via scripting (usually JavaScript). It can be used to draw graphs, make photo compositions or even perform animations.
 
 ### Some 2D graphics and animimations libraries
