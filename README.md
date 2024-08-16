@@ -19,8 +19,6 @@ The open source repo for quick links to some really amazing websites to help you
 
 <!-- toc -->
 
-<!-- tocstop -->
-
 ## <span style="color:purple">Quick Starters to get your projects up and running</span>
 
 ### <span style="color:#00a331">Use our templates to start your "WebDev" journey</span>
