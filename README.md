@@ -2,11 +2,11 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9274/badge)](https://www.bestpractices.dev/projects/9274) [![deployment](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment)
 
-The open source repo for quick links to some really amazing websites to help you with your web development.
+The open source repo for quick links to some really amazing websites to help you with your web development. The content provided is accessible for all and free.
 
-Clicking the above heading will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.
+[Clicking this text will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.](https://dario-maselli.github.io/WebDevEssentials/)
 
-## Statistics
+## <span style="color:red">Statistics</span>
 
 <!-- ![Forks](https://img.shields.io/github/forks/dario-maselli/WebDevEssentials.svg?style=flat&color=aqua) -->
 
@@ -15,17 +15,31 @@ Clicking the above heading will take you to our Github Pages where you can navig
 ![GitHub contributors](https://img.shields.io/github/contributors/dario-maselli/WebDevEssentials?style=flat&color=purple)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dario-maselli/WebDevEssentials?style=flat&color=brown)
 
-## Content
+## <span style="color:blue">Content</span>
 
-- TODO: @dario-maselli + @greenxertz
+<!-- toc -->
 
-## Quick Starters to get your projects up and running
+- [Quick Starters to get your projects up and running](#quick-starters-to-get-your-projects-up-and-running)
+- [Planning](#planning)
+- [Lacking inspiration?](#lacking-inspiration)
+- [Frameworks](#frameworks)
+- [CSS Library Must Haves](#css-library-must-haves)
+- [Icons](#icons)
+- [HTML Canvas usage](#html-canvas-usage)
+- [Some documents on ideas with everything covered above](#some-documents-on-ideas-with-everything-covered-above)
+- [Some Cool Concepts](#some-cool-concepts)
+- [How about some AI chatbot integration?](#how-about-some-ai-chatbot-integration)
+- [Contributors](#contributors)
 
-### Use our templates to start your "WebDev" journey
+<!-- tocstop -->
+
+## <span style="color:purple">Quick Starters to get your projects up and running</span>
+
+### <span style="color:#00a331">Use our templates to start your "WebDev" journey</span>
 
 TODO: @dario-maselli
 
-## Planning
+## <span style="color:#ff6600">Planning</span>
 
 Before making any major decisions, we suggest using Figma or a similar tool to create wireframes for your site. These tools make the development process much easier. From our experience, ideas that look good in your head might not work out as well in reality. Wireframing also helps prevent scope creep.
 
@@ -34,20 +48,33 @@ Before making any major decisions, we suggest using Figma or a similar tool to c
 - Adobe XD
 - Canva
 
-## Lacking inspiration?
+## <span style="color:orange">L</span><span style="color:green">a</span><span style="color:blue">c</span><span style="color:red">k</span><span style="color:brown">i</span><span style="color:orange">n</span><span style="color:green">g </span><span style="color:blue">i</span><span style="color:red">n</span><span style="color:brown">s</span><span style="color:orange">p</span><span style="color:green">i</span><span style="color:blue">r</span><span style="color:red">a</span><span style="color:brown">t</span><span style="color:orange">i</span><span style="color:green">o</span><span style="color:blue">n</span><span style="color:red">?</span>
 
-look at sites like these to get an idea that you might like.
+Have a look at sites like these to get an idea that you might like.
 
-- dribble
-- codepen
-- pinterest
-- behance
+- Dribble
+- Codepen
+- Pinterest
+- Behance
 
-## Frameworks
+## <span style="color:purple">Frameworks</span>
 
 Before starting a Website Development project, we would recommend you understand what frameworks are and which would be beneficial for you.
 
-### Laravel - TODO
+**What is a Framework?**
+A framework is a structured platform or set of tools and libraries designed to simplify and expedite the development process in various areas, such as software, web applications, or mobile apps. It provides a foundation on which developers can build applications without needing to start from scratch.
+
+### <span style="color:red">Laravel</span>
+
+Laravel is a popular, open-source PHP framework used for web application development. It follows the Model-View-Controller (MVC) architectural pattern, which helps in organizing and separating the application’s logic, user interface, and data layers. Laravel is known for its elegant syntax, developer-friendly features, and a strong focus on simplicity and readability.
+
+**Use Cases:**
+
+***Web Applications***: Laravel is widely used to build web applications ranging from small websites to complex, large-scale systems.
+
+***APIs***: With Laravel, you can easily build RESTful APIs, making it a popular choice for backend development.
+
+***eCommerce***: Laravel’s robust features make it suitable for developing eCommerce platforms, with built-in support for user management, payment gateways, and more.
 
 ### Angular
 
@@ -59,7 +86,9 @@ Angular is a platform and framework for building client-side applications using 
 
 Angular continues to evolve with regular updates and new features, supported by a strong community and comprehensive documentation, making it a popular choice for modern web development.
 
-### React - TODO
+### React
+
+React is a popular open-source JavaScript library used for building user interfaces, particularly for single-page applications where you need a fast, interactive user experience. It was developed and is maintained by Facebook, along with a community of individual developers and companies.
 
 ### Electron
 
@@ -75,22 +104,46 @@ Electron is an open-source framework developed by GitHub that allows developers 
 - Angular
 - Vue.js
 
-## CSS libraries
+## CSS Library Must Haves
 
-animate.css
+- [Tailwind CSS](https://tailwindcss.com/)
+  - [With Tailwind UI](https://tailwindui.com/)
+- [Pure CSS](https://purecss.io/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Animate](https://animate.style/)
+- [Foundation](https://get.foundation/)
+- [Bulma.io](https://bulma.io/)
+- [Materialize](https://materializecss.com/)
+- [Semantic UI](https://semantic-ui.com/)
+- [UiKit](https://getuikit.com/)
+
+Note: It is not recommended to use more than 1 CSS library as there can be design conflicts.
 
 ## Icons
 
-### devicon
-
-A set of icons specifically designed for developers. It includes a wide variety of icons for programming languages, development tools, and technology logos. The icons are available in SVG format, making them easy to customize and integrate into web projects.
-
-### fontawesome
+### [Font Awesome](https://fontawesome.com/)
 
 A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
 
-## HTML `<Canvas>` usage
+### [Devicon](https://devicon.dev/)
 
+A set of icons specifically designed for developers. It includes a wide variety of icons for programming languages, development tools, and technology logos. The icons are available in SVG format, making them easy to customize and integrate into web projects.
+
+### [Iconfinder](https://www.iconfinder.com/)
+
+Iconfinder offers a large selection of icons in various styles and formats. You can find both free and premium icons, and it allows you to search by style, category, and more.
+
+### [Flaticon](https://www.flaticon.com/)
+
+Flaticon provides a huge library of free icons, available in multiple formats like PNG, SVG, and EPS. It also offers icon packs and collections tailored to different themes and purposes.
+
+### [Google Material Icons](https://fonts.google.com/icons)
+
+Google's Icons are based on Material Design principles and provide a consistent, modern look. The icons are available in multiple styles and can be easily integrated into web projects.
+
+## HTML Canvas usage
+
+`<canvas>`
 Used for drawing graphics on the fly via scripting (usually JavaScript). It can be used to draw graphs, make photo compositions or even perform animations.
 
 ### Some 2D graphics and animimations libraries
@@ -206,3 +259,7 @@ An open-source machine learning framework for building AI assistants and chatbot
 ## Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=Dario-Maselli/WebDevEssentials)
+
+### Reference links
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
