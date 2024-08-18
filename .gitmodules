@@ -1,0 +1,3 @@
+[submodule "Flutter Web Basic Template"]
+	path = Templates/Flutter Templates/FlutterWebTemplate
+	url = https://github.com/dario-maselli/FlutterWebTemplate.git
