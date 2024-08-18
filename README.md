@@ -76,6 +76,12 @@ Laravel is a popular, open-source PHP framework used for web application develop
 
 ***eCommerce***: Laravel’s robust features make it suitable for developing eCommerce platforms, with built-in support for user management, payment gateways, and more.
 
+### [Flutter](https://flutter.dev/)
+
+Flutter is an open-source UI software development toolkit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. Flutter is known for its fast development cycles, expressive and flexible UI, and its ability to compile to native ARM code.
+
+Fork the flutter template to start your flutter journey.
+
 ### Angular
 
 Angular is a platform and framework for building client-side applications using HTML, CSS, and TypeScript. Developed and maintained by Google, it provides a comprehensive solution for developing robust and scalable single-page applications. Angular is a complete rewrite from the same team that built AngularJS. Examples of applications built with Angular include
