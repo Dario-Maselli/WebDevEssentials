@@ -22,9 +22,39 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  update-toc:
+    runs-on: runner-1
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js environment
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install markdown-toc
+      run: npm install -g markdown-toc
+
+    - name: Generate TOC
+      run: markdown-toc -i README.md --maxdepth 2
+
+    - name: Commit changes
+      run: |
+        git config --local user.name "dario-maselli"
+        git config --local user.email "117168592+Dario-Maselli@users.noreply.github.com"
+        git add README.md
+        git commit -m "chore: update table of contents in README"
+        git push
+      shell: cmd
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
   # Build job
   build:
     runs-on: runner-2
+    needs: update-toc
     steps:
       - name: Checkout
         uses: actions/checkout@v4
