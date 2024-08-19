@@ -4,7 +4,7 @@ on: [pull_request_target, issues]
 
 jobs:
   greeting:
-    runs-on: ubuntu-latest
+    runs-on: runner-2
     permissions:
       issues: write
       pull-requests: write
