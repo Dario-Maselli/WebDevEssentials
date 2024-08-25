@@ -64,6 +64,14 @@ Before starting a Website Development project, we would recommend you understand
 **What is a Framework?**
 A framework is a structured platform or set of tools and libraries designed to simplify and expedite the development process in various areas, such as software, web applications, or mobile apps. It provides a foundation on which developers can build applications without needing to start from scratch.
 
+### [Flutter](https://flutter.dev/)
+
+Flutter is an open-source UI software development toolkit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. Flutter is known for its fast development cycles, expressive and flexible UI, and its ability to compile to native ARM code.
+
+[Fork this Flutter Template and follow the steps in the README.md to start your flutter journey.](https://github.com/Dario-Maselli/FlutterWebTemplate)
+
+View All Flutter Web Templates here: LINK
+
 ### <span style="color:red">Laravel</span>
 
 Laravel is a popular, open-source PHP framework used for web application development. It follows the Model-View-Controller (MVC) architectural pattern, which helps in organizing and separating the application’s logic, user interface, and data layers. Laravel is known for its elegant syntax, developer-friendly features, and a strong focus on simplicity and readability.
