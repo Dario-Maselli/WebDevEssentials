@@ -16,7 +16,6 @@ The open source repo for quick links to some really amazing websites to help you
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dario-maselli/WebDevEssentials?style=flat&color=brown)
 
 ## <span style="color:blue">Content</span>
-
 <!-- toc -->
 
 - [Quick Starters to get your projects up and running](#quick-starters-to-get-your-projects-up-and-running)
@@ -29,6 +28,7 @@ The open source repo for quick links to some really amazing websites to help you
 - [Some documents on ideas with everything covered above](#some-documents-on-ideas-with-everything-covered-above)
 - [Some Cool Concepts](#some-cool-concepts)
 - [How about some AI chatbot integration?](#how-about-some-ai-chatbot-integration)
+- [Amazing pre-built ui elements](#amazing-pre-built-ui-elements)
 - [Contributors](#contributors)
 
 <!-- tocstop -->
@@ -115,7 +115,7 @@ Electron is an open-source framework developed by GitHub that allows developers 
 ## CSS Library Must Haves
 
 - [Tailwind CSS](https://tailwindcss.com/)
-  - [With Tailwind UI](https://tailwindui.com/)
+- [With Tailwind UI](https://tailwindui.com/)
 - [Pure CSS](https://purecss.io/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Animate](https://animate.style/)
@@ -263,6 +263,19 @@ AWS service for building conversational interfaces using voice and text. It prov
 ### Rasa
 
 An open-source machine learning framework for building AI assistants and chatbots. Providing tools for natural language understanding and dialogue management, allowing developers to create custom AI solutions.
+
+## Amazing pre-built ui elements
+
+These are going to speed up your process.
+
+- [Uiverse](https://uiverse.io/elements)  
+- [Magicui](https://magicui.design)
+- [Copy paste css](https://copy-paste-css.com/)
+- [Cssfx](https://cssfx.netlify.app/)
+- [Getcssscan](https://getcssscan.com/css-buttons-examples)
+- [Freefrontend](https://freefrontend.com/css-submit-buttons/)
+- [Floatui](https://floatui.com/components)
+- [Copyui](https://copyui.com/)
 
 ## Contributors
 
