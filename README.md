@@ -1,286 +1,257 @@
 # [WebDevEssentials](https://dario-maselli.github.io/WebDevEssentials/)
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9274/badge)](https://www.bestpractices.dev/projects/9274) [![deployment](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment)
-
-The open source repo for quick links to some really amazing websites to help you with your web development. The content provided is accessible for all and free.
-
-[Clicking this text will take you to our Github Pages where you can navigate through and find the relevant examples and docs for the packages you would like to use.](https://dario-maselli.github.io/WebDevEssentials/)
-
-## <span style="color:red">Statistics</span>
-
-<!-- ![Forks](https://img.shields.io/github/forks/dario-maselli/WebDevEssentials.svg?style=flat&color=aqua) -->
-
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9274/badge)](https://www.bestpractices.dev/projects/9274)
+[![deployment](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Dario-Maselli/WebDevEssentials/actions/workflows/pages/pages-build-deployment)
 ![Stars](https://img.shields.io/github/stars/dario-maselli/WebDevEssentials.svg?style=flat&color=green)
 ![Watchers](https://img.shields.io/github/watchers/dario-maselli/WebDevEssentials.svg?style=flat&color=blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/dario-maselli/WebDevEssentials?style=flat&color=purple)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dario-maselli/WebDevEssentials?style=flat&color=brown)
 
-## <span style="color:blue">Content</span>
-<!-- toc -->
+---
 
-- [Quick Starters to get your projects up and running](#quick-starters-to-get-your-projects-up-and-running)
+**WebDevEssentials** is your open source toolkit for launching and scaling web projects faster than ever.  
+We’re building a curated, no-nonsense directory of the best resources, libraries, frameworks, and inspirations—plus some original templates and guides—to get you shipping **production-grade web apps** at warp speed.
+
+_All content is free, accessible, and community-driven._
+
+[**Visit the GitHub Pages site for live examples, quick links, and guides.**](https://dario-maselli.github.io/WebDevEssentials/)
+
+---
+
+## 🚀 What is WebDevEssentials?
+
+- A _constantly-evolving_, open-source directory of the best resources for web devs: from must-have frameworks and UI kits, to hand-picked CSS/JS tools and production-ready templates.
+- A launchpad for **both beginners and pros**: Stop googling for hours—get straight to the good stuff.
+- Easy, accessible, and 100% free: No login, no spam, just links and resources that actually help you build.
+
+---
+
+## ⭐️ Why Use This Repo?
+
+- Save **hours** finding the best dev tools, UI libraries, and docs.
+- Cut through the noise—every link is community-curated and actually useful.
+- Discover hidden gems, quickstart templates, and real-world project inspiration.
+- Easily jump between documentation, demos, and code for popular frameworks.
+- No gatekeeping: All skill levels, all backgrounds, all devices.
+
+---
+
+## 📊 Stats & Community
+
+- **Project started:** 2024
+- **Contributors:** ![Contributors](https://contrib.rocks/image?repo=Dario-Maselli/WebDevEssentials)
+- **Stars:** ![Stars](https://img.shields.io/github/stars/dario-maselli/WebDevEssentials.svg?style=flat&color=green)
+- **Watchers:** ![Watchers](https://img.shields.io/github/watchers/dario-maselli/WebDevEssentials.svg?style=flat&color=blue)
+- **Commits this year:** ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dario-maselli/WebDevEssentials?style=flat&color=brown)
+- **Live Demo:** [https://dario-maselli.github.io/WebDevEssentials/](https://dario-maselli.github.io/WebDevEssentials/)
+
+> ⭐️ _Star and watch this repo to get updates as new resources are added!_
+
+---
+
+## 📚 Contents
+
+- [Quick Starters](#quick-starters-to-get-your-projects-up-and-running)
 - [Planning](#planning)
-- [Lacking inspiration?](#lacking-inspiration)
+- [Inspiration](#lacking-inspiration)
 - [Frameworks](#frameworks)
-- [CSS Library Must Haves](#css-library-must-haves)
+- [CSS Libraries](#css-library-must-haves)
 - [Icons](#icons)
-- [HTML Canvas usage](#html-canvas-usage)
-- [Some documents on ideas with everything covered above](#some-documents-on-ideas-with-everything-covered-above)
-- [Some Cool Concepts](#some-cool-concepts)
-- [How about some AI chatbot integration?](#how-about-some-ai-chatbot-integration)
-- [Amazing pre-built ui elements](#amazing-pre-built-ui-elements)
+- [HTML Canvas & Graphics](#html-canvas-usage--graphics-libraries)
+- [Animation & Visual Effects](#ui-inspiration--animation-docs)
+- [Cool Concepts](#some-cool-concepts)
+- [AI Chatbot Integration](#how-about-some-ai-chatbot-integration)
+- [UI Elements](#amazing-pre-built-ui-elements)
+- [Get Involved](#-get-involved)
 - [Contributors](#contributors)
+- [Reference](#-reference-links)
+- [Our Values](#-our-values)
 
-<!-- tocstop -->
+---
 
-## <span style="color:purple">Quick Starters to get your projects up and running</span>
+## Quick Starters to get your projects up and running
 
-### <span style="color:#00a331">Use our templates to start your "WebDev" journey</span>
+Jump straight into building with our ready-to-use templates:
 
-TODO: @dario-maselli
+- [Flutter Web Template](https://github.com/Dario-Maselli/FlutterWebTemplate)
+- [HTML Boilerplate](https://html5boilerplate.com/)
+- [React Starter Kit](https://github.com/kriasoft/react-starter-kit)
+- [Vite.js Vanilla Starter](https://vite.new)
+- [Laravel Breeze](https://laravel.com/docs/starter-kits#breeze)
+- [Next.js Starter](https://nextjs.org/learn/basics/create-nextjs-app)
+- [SvelteKit Skeleton](https://kit.svelte.dev/docs)
+- **More coming soon!**
 
-## <span style="color:#ff6600">Planning</span>
+> Want your template featured? [Open a PR!](https://github.com/Dario-Maselli/WebDevEssentials/pulls)
 
-Before making any major decisions, we suggest using Figma or a similar tool to create wireframes for your site. These tools make the development process much easier. From our experience, ideas that look good in your head might not work out as well in reality. Wireframing also helps prevent scope creep.
+---
 
-- Figma
-- Sketch
-- Adobe XD
-- Canva
+## Planning
 
-## <span style="color:orange">L</span><span style="color:green">a</span><span style="color:blue">c</span><span style="color:red">k</span><span style="color:brown">i</span><span style="color:orange">n</span><span style="color:green">g </span><span style="color:blue">i</span><span style="color:red">n</span><span style="color:brown">s</span><span style="color:orange">p</span><span style="color:green">i</span><span style="color:blue">r</span><span style="color:red">a</span><span style="color:brown">t</span><span style="color:orange">i</span><span style="color:green">o</span><span style="color:blue">n</span><span style="color:red">?</span>
+Wireframe your ideas before you code—don’t skip this step!
 
-Have a look at sites like these to get an idea that you might like.
+- [Figma](https://figma.com)
+- [Sketch](https://sketch.com)
+- [Adobe XD](https://adobe.com/products/xd.html)
+- [Canva](https://canva.com)
+- [Penpot (open-source)](https://penpot.app/)
 
-- Dribble
-- Codepen
-- Pinterest
-- Behance
+---
 
-## <span style="color:purple">Frameworks</span>
+## Lacking inspiration?
 
-Before starting a Website Development project, we would recommend you understand what frameworks are and which would be beneficial for you.
+- [Dribbble](https://dribbble.com/)
+- [CodePen](https://codepen.io/)
+- [Pinterest](https://pinterest.com/)
+- [Behance](https://behance.net/)
 
-**What is a Framework?**
-A framework is a structured platform or set of tools and libraries designed to simplify and expedite the development process in various areas, such as software, web applications, or mobile apps. It provides a foundation on which developers can build applications without needing to start from scratch.
+---
 
-### [Flutter](https://flutter.dev/)
+## Frameworks
 
-Flutter is an open-source UI software development toolkit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. Flutter is known for its fast development cycles, expressive and flexible UI, and its ability to compile to native ARM code.
+**Find the right tool for your stack. Each has unique strengths:**
 
-[Fork this Flutter Template and follow the steps in the README.md to start your flutter journey.](https://github.com/Dario-Maselli/FlutterWebTemplate)
+- [Flutter](https://flutter.dev/) - Best for cross-platform apps, not just mobile!
+- [Laravel](https://laravel.com/) - PHP powerhouse for backend and full-stack apps.
+- [React](https://react.dev/) - The UI library of choice for dynamic, interactive SPAs.
+- [Angular](https://angular.io/) - All-in-one solution for scalable enterprise web.
+- [Vue.js](https://vuejs.org/) - Lightweight and easy to pick up.
+- [Next.js](https://nextjs.org/) - React + SSR, built-in routing, and more.
+- [Nuxt.js](https://nuxt.com/) - Vue’s answer to Next.js.
+- [Svelte/SvelteKit](https://svelte.dev/) - The new lightweight, reactive frontend framework.
+- [Express.js](https://expressjs.com/) - Fast, minimalist Node.js backend.
+- [Electron](https://www.electronjs.org/) - Web tech for desktop apps.
 
-View All Flutter Web Templates here: LINK
+See the [Frameworks](https://dario-maselli.github.io/WebDevEssentials/#frameworks) section for detailed writeups, use-cases, and example repos.
 
-### <span style="color:red">Laravel</span>
-
-Laravel is a popular, open-source PHP framework used for web application development. It follows the Model-View-Controller (MVC) architectural pattern, which helps in organizing and separating the application’s logic, user interface, and data layers. Laravel is known for its elegant syntax, developer-friendly features, and a strong focus on simplicity and readability.
-
-**Use Cases:**
-
-***Web Applications***: Laravel is widely used to build web applications ranging from small websites to complex, large-scale systems.
-
-***APIs***: With Laravel, you can easily build RESTful APIs, making it a popular choice for backend development.
-
-***eCommerce***: Laravel’s robust features make it suitable for developing eCommerce platforms, with built-in support for user management, payment gateways, and more.
-
-### Angular
-
-Angular is a platform and framework for building client-side applications using HTML, CSS, and TypeScript. Developed and maintained by Google, it provides a comprehensive solution for developing robust and scalable single-page applications. Angular is a complete rewrite from the same team that built AngularJS. Examples of applications built with Angular include
-
-- Google AdWords, showcasing Angular's ability to handle complex, large-scale projects.
-- parts of Microsoft Office Online for a rich, interactive experience.
-- Gmail, which leverages Angular’s capabilities for enhanced performance and user experience.
-
-Angular continues to evolve with regular updates and new features, supported by a strong community and comprehensive documentation, making it a popular choice for modern web development.
-
-### React
-
-React is a popular open-source JavaScript library used for building user interfaces, particularly for single-page applications where you need a fast, interactive user experience. It was developed and is maintained by Facebook, along with a community of individual developers and companies.
-
-### Electron
-
-Electron is an open-source framework developed by GitHub that allows developers to build cross-platform desktop applications using web technologies like HTML, CSS, and JavaScript. Essentially, it enables you to create desktop apps with the same technologies you would use for web development. Here are some examples:
-
-- Discord: Initially built as a web application using React, Discord uses Electron to create its desktop application. This allows it to leverage the same codebase for both web and desktop versions, ensuring consistency across platforms.
-
-- Visual Studio Code: Microsoft's popular code editor is another well-known example of an Electron app. It utilizes Electron to provide a consistent development experience across different operating systems.
-
-#### Electron is compatible with
-
-- React
-- Angular
-- Vue.js
+---
 
 ## CSS Library Must Haves
 
-- [Tailwind CSS](https://tailwindcss.com/)
-- [With Tailwind UI](https://tailwindui.com/)
-- [Pure CSS](https://purecss.io/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Animate](https://animate.style/)
-- [Foundation](https://get.foundation/)
-- [Bulma.io](https://bulma.io/)
+- [Tailwind CSS](https://tailwindcss.com/) (utility-first, super popular)
+- [Bootstrap](https://getbootstrap.com/) (classic, fast UI scaffolding)
+- [Bulma](https://bulma.io/) (flexbox-based, no JS)
+- [Animate.css](https://animate.style/) (animations in seconds)
 - [Materialize](https://materializecss.com/)
 - [Semantic UI](https://semantic-ui.com/)
+- [Pure.css](https://purecss.io/)
+- [Foundation](https://get.foundation/)
 - [UiKit](https://getuikit.com/)
 
-Note: It is not recommended to use more than 1 CSS library as there can be design conflicts.
+> **Tip:** Don’t combine multiple CSS frameworks on one project—stick to one to avoid clashing styles.
+
+---
 
 ## Icons
 
-### [Font Awesome](https://fontawesome.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Devicon](https://devicon.dev/)
+- [Iconfinder](https://www.iconfinder.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [Google Material Icons](https://fonts.google.com/icons)
+- [Phosphor Icons](https://phosphoricons.com/)
+- [Remix Icon](https://remixicon.com/)
 
-A popular icon library that provides a vast collection of scalable vector icons. It includes icons for a wide range of uses, such as web applications, social media, user interface elements, and more.
+---
 
-### [Devicon](https://devicon.dev/)
+## HTML Canvas usage & Graphics Libraries
 
-A set of icons specifically designed for developers. It includes a wide variety of icons for programming languages, development tools, and technology logos. The icons are available in SVG format, making them easy to customize and integrate into web projects.
+- [Paper.js](http://paperjs.org/) (vector graphics)
+- [Mo.js](https://mojs.github.io/) (motion graphics)
+- [CreateJS](https://createjs.com/)
+- [GSAP](https://greensock.com/gsap/) (pro-grade animations)
+- [Anime.js](https://animejs.com/)
+- [PixiJS](https://pixijs.com/) (WebGL rendering)
+- [Konva.js](https://konvajs.org/) (canvas manipulation)
+- [p5.js](https://p5js.org/) (art & creative coding)
+- [Fabric.js](http://fabricjs.com/) (canvas object model)
+- [EaselJS](https://createjs.com/easeljs)
+- [SplideJS](https://splidejs.com/) (sliders/carousels)
 
-### [Iconfinder](https://www.iconfinder.com/)
+**3D & Data Viz:**
+- [Three.js](https://threejs.org/) (3D)
+- [Zdog](https://zzz.dog/)
+- [Chart.js](https://www.chartjs.org/) (data viz)
 
-Iconfinder offers a large selection of icons in various styles and formats. You can find both free and premium icons, and it allows you to search by style, category, and more.
+---
 
-### [Flaticon](https://www.flaticon.com/)
+## UI Inspiration & Animation Docs
 
-Flaticon provides a huge library of free icons, available in multiple formats like PNG, SVG, and EPS. It also offers icon packs and collections tailored to different themes and purposes.
+- [Motion Designs](https://codepen.io/sdras/details/JbaGwg)
+- [Transition Examples](https://codepen.io/juliangarnier/pen/mWdraw)
+- [Animation Cheat Sheet](https://codepen.io/jasonbaciulis/details/zNRdyM)
 
-### [Google Material Icons](https://fonts.google.com/icons)
-
-Google's Icons are based on Material Design principles and provide a consistent, modern look. The icons are available in multiple styles and can be easily integrated into web projects.
-
-## HTML Canvas usage
-
-`<canvas>`
-Used for drawing graphics on the fly via scripting (usually JavaScript). It can be used to draw graphs, make photo compositions or even perform animations.
-
-### Some 2D graphics and animimations libraries
-
-#### Mo.js
-
-A JavaScript library used for creating motion graphics. It simplifies the process of creating complex animations by providing an easy-to-use API. Mo.js is highly performant and works well for creating web animations that need to run smoothly across different devices and browsers.
-
-#### Paper.js
-
-An open-source vector graphics scripting framework that runs on top of the HTML5 Canvas. It offers a clean API that simplifies working with paths, segments, and vector graphics, making it a powerful tool for creating and manipulating 2D graphics.
-
-#### CreateJS
-
-CreateJS is a suite of modular libraries and tools that work together or independently to create interactive content. EaselJS, one of its modules, provides a robust framework for working with the HTML5 Canvas element.
-
-#### GreenSock Animation Platform (GSAP)
-
-A powerful JavaScript library for high-performance animations. It can animate any property of DOM elements, CSS properties, SVG, and even Canvas elements. GSAP is known for its speed, reliability, and ease of use.
-
-#### Anime.js
-
-A lightweight JavaScript animation library with a simple but powerful API. It works with CSS properties, SVG, DOM attributes, and JavaScript objects, providing a versatile solution for various animation needs.
-
-#### Fabric.js
-
-A framework for creating and manipulating canvas-based graphics. It provides a rich set of features for working with shapes, images, and text on the `<canvas>` element.
-
-#### PixiJS
-
-A 2D rendering engine that works with WebGL and falls back to HTML5 Canvas if WebGL is not supported. It’s known for its high-performance rendering and is used in game development and complex visualizations.
-
-#### p5.js
-
-A library designed to make coding graphics and interactive content easy and accessible. It provides a simple API for drawing and animating graphics on the canvas.
-
-#### Konva.js
-
-A library for creating interactive 2D graphics on the canvas. It’s useful for applications like drawing tools, image editors, and interactive visualizations.
-
-#### EaselJS
-
-Part of the CreateJS suite, EaselJS provides a robust API for working with canvas elements, allowing for drawing and animating graphics with ease.
-
-#### SplideJS
-
-Splide is a lightweight, responsive, and modern slider/carousel library that is designed to be easy to use and customizable. being responisve, lightweight, customizable, easy access, modular and supporting multiple types.
-
-### Some 3D graphics and animimations libraries
-
-#### Three.js
-
-A powerful JavaScript library used for creating 3D graphics and animations on the web. It removes a lot of the complexity of WebGL and allows for advanced visual effects and interactive 3D scenes.
-
-#### Zdog
-
-a pseudo-3D engine for the web that uses the Canvas element. It is designed for simplicity and ease of use, allowing you to create flat, cartoonish 3D designs with minimal code.
-
-### Charting and Data Visualization libraries
-
-#### Chart.js
-
-While primarily used for creating charts and graphs, Chart.js uses the `<canvas>` tag for rendering its visualizations.
-
-## Some documents on ideas with everything covered above
-
-### Animations
-
-#### Motion Designs
-
-Explanations and recommendations included - [CodePenLink](https://codepen.io/sdras/details/JbaGwg)
-
-#### Transition Examples
-
-Ease-in / Ease-in-out / Ease-out - [CodePenLink](https://codepen.io/juliangarnier/pen/mWdraw)
-
-#### Animation cheat sheet
-
-[CodePenLink](https://codepen.io/jasonbaciulis/details/zNRdyM)
+---
 
 ## Some Cool Concepts
 
-### [Oframe](https://oframe.github.io/ogl/examples/?src=indexed-vs-non-indexed.html)
+- [Oframe (OGL demos)](https://oframe.github.io/ogl/examples/?src=indexed-vs-non-indexed.html)
+- [CSS Zen Garden](http://www.csszengarden.com/)
+- [100 Days CSS Challenge](https://100dayscss.com/)
 
-A collection of examples and experiments built using OGL, a lightweight WebGL framework. The examples on the Oframe site showcase various techniques and visual effects that can be achieved with OGL.
+---
 
 ## How about some AI chatbot integration?
 
-### Botpress
+- [Botpress](https://botpress.com/)
+- [Dialogflow](https://dialogflow.cloud.google.com/)
+- [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
+- [Microsoft Bot Framework](https://dev.botframework.com/)
+- [Amazon Lex](https://aws.amazon.com/lex/)
+- [Rasa](https://rasa.com/)
 
-An open-source conversational AI platform that helps developers build, manage, and extend chatbots using Node.js and other programming languages.
+---
 
-### Dialogflow
+## Amazing pre-built UI elements
 
-Google’s AI platform for building conversational experiences, which integrates easily with web and mobile applications. It offers natural language understanding and supports voice and text-based interactions.
-
-### IBM Watson Assistant
-
-A powerful platform that offers natural language understanding and dialogue management capabilities. It allows businesses to build AI-driven virtual assistants that understand user queries and provide accurate responses.
-
-### Microsoft Bot Framework
-
-Allows you to build, connect, and manage intelligent bots to interact naturally with users on various platforms, including websites, apps, and messaging services. It supports multiple programming languages and frameworks.
-
-### Amazon Lex
-
-AWS service for building conversational interfaces using voice and text. It provides the same deep learning technologies that power Amazon Alexa, enabling the creation of sophisticated, natural language chatbots.
-
-### Rasa
-
-An open-source machine learning framework for building AI assistants and chatbots. Providing tools for natural language understanding and dialogue management, allowing developers to create custom AI solutions.
-
-## Amazing pre-built ui elements
-
-These are going to speed up your process.
-
-- [Uiverse](https://uiverse.io/elements)  
+- [Uiverse](https://uiverse.io/elements)
 - [Magicui](https://magicui.design)
-- [Copy paste css](https://copy-paste-css.com/)
+- [Copy Paste CSS](https://copy-paste-css.com/)
 - [Cssfx](https://cssfx.netlify.app/)
 - [Getcssscan](https://getcssscan.com/css-buttons-examples)
 - [Freefrontend](https://freefrontend.com/css-submit-buttons/)
 - [Floatui](https://floatui.com/components)
 - [Copyui](https://copyui.com/)
 
+---
+
+## 🤝 Get Involved
+
+We’re always looking for more contributors, ideas, and links!  
+**Found a great resource or built a killer template? Open a [Pull Request](https://github.com/Dario-Maselli/WebDevEssentials/pulls) or [Issue](https://github.com/Dario-Maselli/WebDevEssentials/issues) and help others level up.**
+
+### How to Contribute
+
+1. Fork the repo.
+2. Add your awesome link/template/tool.
+3. Submit a PR—one of the maintainers will review.
+
+All skill levels welcome. Let’s build a truly essential resource for the web dev community.
+
+---
+
 ## Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=Dario-Maselli/WebDevEssentials)
 
-### Reference links
+---
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+## 📚 Reference Links
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Awesome Lists (curated resources)](https://github.com/sindresorhus/awesome)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+## 🙌 Our Values
+
+- No gatekeeping, no spam, just genuinely useful web dev resources.
+- Community first—always.
+- Open source forever.
+
+---
+
+_Maintained by [Dario Maselli](https://github.com/Dario-Maselli) and awesome contributors._  
+_If you find this useful, **star** the repo and share it with your dev friends!_
